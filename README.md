@@ -28,18 +28,18 @@ Follow these steps to install and set up the application:
    git clone https://github.com/your-username/my-notes.git
    cd my-notes
 
-Set Up the Database:
+2. **Set Up the Database**:
 
     Create a MySQL database.
     Import the necessary database tables using the provided SQL scripts (if any).
     Update the db_config.php file with your database credentials.
 
-Configure the Web Server:
+3. **Configure the Web Server**:
 
     Ensure you have a local or remote server with PHP support.
     Place the project files in your server's root directory.
 
-Access the Application:
+4. **Access the Application**:
 
     Open your web browser and navigate to the application's URL (e.g., http://localhost/my-notes).
     Register a new account or log in with existing credentials to start managing your notes.
